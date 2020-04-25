@@ -2,7 +2,7 @@
 
 -----
 
-# Download [![version](https://jitpack.io/v/sungbin5304/TagableRoundImageView.svg)](https://jitpack.io/#sungbin5304/TagableRoundImageView)
+# Download [![](https://jitpack.io/v/sungbin5304/TagableRoundImageView.svg)](https://jitpack.io/#sungbin5304/TagableRoundImageView)
 
 ```Gradle
 repositories {
