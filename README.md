@@ -4,7 +4,6 @@
 
 # Usage
 [[MOVED PROJECT]](https://github.com/sungbin5304/AndroidUtils/blob/master/README.md#tagableroundimageview)
-```
 
 # License
 ```
