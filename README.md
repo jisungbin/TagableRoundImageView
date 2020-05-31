@@ -2,6 +2,9 @@
 
 -----
 
+# Download
+You can download at [this](https://github.com/sungbin5304/AndroidUtils/blob/master/README.md#tagableroundimageview-more-guide) page.
+
 # Usage
 ## xml
 ```xml
