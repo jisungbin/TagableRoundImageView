@@ -45,6 +45,8 @@ You can set GIF image from [Glide](https://github.com/bumptech/glide) library.
 
 2. If you not set `triv_tagText` parameter, `TagableRoundImageView` will be only rounding image.
 
+#### `TagableRoundImageView` is based on [`Android-BadgedImageView`](https://github.com/klinker24/Android-BadgedImageView).
+
 # License
 ```
                   Copyright 2020 SungBin
