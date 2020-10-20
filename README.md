@@ -8,7 +8,7 @@ You can download at [this](https://github.com/sungbin5304/AndroidUtils/blob/mast
 # Usage
 ## xml
 ```xml
-<com.sungbin.sungbintool.ui.TagableRoundImageView
+<com.sungbin.androidutils.ui.TagableRoundImageView
         android:id="@+id/image"
         android:layout_width="200dp"
         android:layout_height="200dp"
