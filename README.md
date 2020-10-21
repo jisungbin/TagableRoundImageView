@@ -33,11 +33,12 @@ You can download at [this](https://github.com/sungbin5304/AndroidUtils/blob/mast
 
 ## method
 ```kotlin
-- set(text: String, tagBackgroundColor: Int = Color.WHITE,
+set(text: String, tagBackgroundColor: Int = Color.WHITE,
       tagTextSize: Int = 15dp, tagTextPadding: Int = 8dp,
       tagTextStyle: Int = Typeface.NORMAL, tagRadius: Int = 2dp,
       imageRadius: Int = 16dp)
-- updateRadius(imageRadius: Int)
+      
+updateRadius(imageRadius: Int)
 ```
 
 ## tip
