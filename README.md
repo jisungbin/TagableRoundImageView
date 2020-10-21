@@ -37,6 +37,7 @@ You can download at [this](https://github.com/sungbin5304/AndroidUtils/blob/mast
       tagTextSize: Int = 15dp, tagTextPadding: Int = 8dp,
       tagTextStyle: Int = Typeface.NORMAL, tagRadius: Int = 2dp,
       imageRadius: Int = 16dp)
+- updateRadius(imageRadius: Int)
 ```
 
 ## tip
